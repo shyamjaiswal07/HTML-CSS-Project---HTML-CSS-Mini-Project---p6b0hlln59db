@@ -29,5 +29,4 @@ Contact page is very intresting page of this website. I have created on google m
 For google map i have used Google Map API inside in iFrame tag after that i set height and width and it is also responive.
 I have also created oe form inside the contact page for query.
 
-
-                                                       **So it is whole information about my webpages**
+**So it is whole information about my webpages**
